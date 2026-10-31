@@ -1,0 +1,13 @@
+name = "Cozytech"
+author = "rollingstar"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "25456a6242a2d4b96c8e6e0c9643710e86a50a01d134b414564c65ee8bf2c856"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
